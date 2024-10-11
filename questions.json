@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Qual é a capital do Brasil?",
+    "choice1": "São Paulo",
+    "choice2": "Brasília",
+    "choice3": "Rio de Janeiro",
+    "choice4": "Salvador",
+    "answer": 2
+  },
+  {
+    "question": "Qual é o maior planeta do sistema solar?",
+    "choice1": "Terra",
+    "choice2": "Marte",
+    "choice3": "Júpiter",
+    "choice4": "Saturno",
+    "answer": 3
+  },
+  {
+    "question": "Qual é a fórmula da água?",
+    "choice1": "H2O",
+    "choice2": "CO2",
+    "choice3": "O2",
+    "choice4": "NaCl",
+    "answer": 1
+  }
+]
